@@ -38,9 +38,9 @@ endereco = "Rua do abacate";
 
 //-----Nomes Claros---------
 
-// camelCase = nomeDoUsuario
-// snake_case = nome_do_usuario
-// PascalCase = NomeDoUsuario
+// camelCase = nomeDoUsuario (Muito utilizado em JavaScript)
+// snake_case = nome_do_usuario (Muito utilizado em python)
+// PascalCase = NomeDoUsuario (Muito usado em C#, Java, TypeScript. Em JavaScript, é usado para nomes de componentes e classes.)
 
 let nomeDoUsuario = "Abdullah";
 let nome_do_usuario = "Bianca";
