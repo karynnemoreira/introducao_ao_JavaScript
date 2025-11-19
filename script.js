@@ -86,10 +86,10 @@ let livrosPegos = "3"; // Aqui representa o 3 como texto
 let visitanteAtivo = true;
 let alunosEntendendo = false;
 
-//Null - valor nulo, reservado, porém, vazio. A caixinha está reservada para receber um valor, no qual ainda não sei.
+//null = algo que foi definido, mas está propositalmente vazio.
 let livroFavorito = null;
 
-//Undefined quando uma variável foi criada, mas ainda não recebeu nenhum valor.
+//undefined = algo que ainda não foi definido.
 
 let telefoneVisitante;
 console.log(telefoneVisitante);
